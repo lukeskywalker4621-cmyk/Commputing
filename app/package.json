@@ -1,11 +1,11 @@
 {
-  "name": "app",
+  "name": "Government",
   "productName": "app",
   "version": "1.0.0",
   "private": true,
   "description": "My Electron application description",
   "keywords": [],
-  "license": "MIT",
+  "license": "GPL-3.0",
   "author": {
     "name": "Eric",
     "email": "Lukeskywalker4621@gmail.com"
