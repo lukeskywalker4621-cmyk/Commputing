@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to the Communist Government Software Project!
+Thank you for your interest in contributing to the Commputing!
 
 This project is being developed as an open-source effort, and contributions are welcome.
 
